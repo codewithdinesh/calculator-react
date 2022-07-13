@@ -1,0 +1,12 @@
+.credits {
+    background-image: linear-gradient(250deg, #b3dcef 50%, #e1ba57 75%);
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.credits p {
+    font-size: 14px;
+
+}
